@@ -1,0 +1,62 @@
+# -------------------------
+# OS / Editor
+# -------------------------
+.DS_Store
+Thumbs.db
+
+.vscode/
+
+# -------------------------
+# Python
+# -------------------------
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+conda/
+.conda/
+.conda-env/
+*.conda
+
+# Test / tooling caches
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Jupyter / IPython
+.ipynb_checkpoints/
+.ipython/
+
+# -------------------------
+# R
+# -------------------------
+.Rhistory
+.RData
+.Ruserdata
+.Rproj.user/
+.Rapp.history
+
+# Renviron / secrets
+.Renviron
+.Renviron.*
+.Rprofile
+.Rprofile.*
+
+# knitr / rmarkdown
+*_cache/
+*_files/
+
+# -------------------------
+# Logs
+# -------------------------
+*.log
