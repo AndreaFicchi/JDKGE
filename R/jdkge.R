@@ -41,8 +41,7 @@
 #' zero-probability bins, and (v) computation of the discrete JSD component.
 #'
 #' @seealso
-#' \code{\link{jsd_fd_log}} for the JSD component implementation;
-#' \code{\link[stats]{sd}}, \code{\link[base]{mean}} for basic statistics.
+#' \code{\link{jsd_fd_log}} for the JSD component implementation.
 #'
 #' @references
 #' Ficchì, A., Bavera, D., Grimaldi, S., Moschini, F., Pistocchi, A., Russo, C., Salamon, P., and Toreti, A.: 
